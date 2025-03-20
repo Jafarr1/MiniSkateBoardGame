@@ -1,0 +1,1 @@
+This is a 2D side-scrolling skateboarder game developed as part of a Unity course on Udemy. The project focuses on key concepts such as player movement, physics interactions, particle effects, and win/lose conditions in Unity using C#.
